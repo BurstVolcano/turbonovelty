@@ -1,0 +1,3 @@
+/Users/speedthriller/CLionProjects/GithubAndGit/cmake-build-debug/CMakeFiles/GithubAndGit.dir
+/Users/speedthriller/CLionProjects/GithubAndGit/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/speedthriller/CLionProjects/GithubAndGit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
